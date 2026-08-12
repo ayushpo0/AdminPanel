@@ -1,4 +1,4 @@
--- ⚡ Ayush Custom Admin Panel ⚡
+print("⚡ Ayush Panel Loaded ⚡")
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
